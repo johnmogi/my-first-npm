@@ -5,4 +5,5 @@ module.exports.build = function(){
 
 1. create npm account - npm adduser / npm login
 2. publish library - npm publish
-
+3. chmod +x ./script.sh
+bash script.sh
