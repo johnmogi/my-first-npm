@@ -1,0 +1,16 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "In this attempt I will try to create a boilerplate server scaffold using typeorm and express",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add --all && git commit -m",
+    "postgit": "git push --all"
+  },
+  "keywords": [
+    "mock",
+    "server"
+  ],
+  "author": "John Mogi",
+  "license": "ISC"
+}
