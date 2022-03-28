@@ -1,6 +1,6 @@
 {
   "name": "unicornflake",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "In this attempt I will try to create a boilerplate server scaffold using typeorm and express",
   "main": "index.js",
   "scripts": {
