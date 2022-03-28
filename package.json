@@ -6,7 +6,7 @@
   "scripts": {
     "git": "git add --all && git commit -m",
     "postgit": "git push --all",
-    "up": "yarn git minor && npm update patch"
+    "up": "yarn git minor && npm update patch && npm publish"
   },
   "keywords": [
     "mock",
